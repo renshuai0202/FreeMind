@@ -1,6 +1,6 @@
 require('./style.css');
+require('./JavaScript/语法和数据结构/index.js')
 
-console.log(123456);
 const box = document.createElement('div');
 box.classList.add('box');
 document.body.appendChild(box);
